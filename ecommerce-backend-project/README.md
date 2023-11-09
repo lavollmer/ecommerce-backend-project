@@ -2,6 +2,8 @@
 
 ## Project Description
 
+## Technical Requirements
+
 ## Usage
 
 ## Credit
